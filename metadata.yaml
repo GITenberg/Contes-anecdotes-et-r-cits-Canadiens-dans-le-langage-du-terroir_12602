@@ -1,0 +1,31 @@
+_repo: Contes-anecdotes-et-r-cits-Canadiens-dans-le-langage-du-terroir_12602
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Filiatreault, Aristide
+    birthdate: 1850
+    deathdate: 1913
+    gutenberg_agent_id: '4451'
+    url: http://www.gutenberg.org/2009/agents/4451
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12602'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French-Canadian wit and humor'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Préface -- Préambule -- La Culotte à Baptiste -- La Crémation --
+  Le Coq à la Mère Supérieure -- Le "Beu" à Napoléon -- Les Punaises du Canada --
+  L'Appendicite -- La Jument à Ma Tante Cayen -- Prout! Prout! Prout! -- La Route
+  du "Pays Fin" -- Les Filles de 'Maska -- Baptissette Dufour -- Forts comme les Archambault
+  -- Le P'tit Taureau Croisé -- Le Cochon à Toinon -- Le Batte-Feu à Ponce-Pilate
+  -- Une Maladie Cutanée -- Le Téléphone -- La Balance à Pierre.
+title: Contes, anecdotes et récits Canadiens dans le langage du terroir
+url: http://www.gutenberg.org/ebooks/12602
